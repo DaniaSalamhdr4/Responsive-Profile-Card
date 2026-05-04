@@ -5,7 +5,7 @@
 ## 🚀 Technologies Used
 
 **HTML5**: For the structural layout of the calculator.  
-**CSS3**: For styling, Flexbox/Grid layouts, and modern UI design.
+**CSS3**: For styling, Flexbox/Grid layouts, and modern UI design.  
 **ICONS**: I use "Boxicons" wepsite for Icons.
 
 ![profile Preview](./images/screenshots.png)
