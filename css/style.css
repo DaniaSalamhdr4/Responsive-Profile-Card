@@ -23,16 +23,16 @@
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   border-radius: 24px;
   padding: 25px;
-  position:relative ;
+  position: relative;
 }
 
-.profile-card::before{
+.profile-card::before {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
   height: 36%;
-  width:100% ;
+  width: 100%;
   border-radius: 24px 24px 0 0;
   background-color: rgb(95, 212, 154);
 }
@@ -127,12 +127,11 @@
   border-right: 2px solid #e7e7e7;
 }
 
-.data:last-child{
+.data:last-child {
   border-right: none;
+}
 
-} 
-
-.data i{
+.data i {
   font-size: 18px;
   margin-right: 6px;
 }
